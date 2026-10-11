@@ -319,7 +319,7 @@ const [linePopup, setLinePopup] = useState(false)
         </p>
 
         <img
-          src="/images/lineqrpaniti.jpg"
+          src={`${import.meta.env.BASE_URL}images/lineqrpaniti.jpg`}
           alt="LINE QR Code"
           className="mx-auto w-full max-w-[260px]"
         />
