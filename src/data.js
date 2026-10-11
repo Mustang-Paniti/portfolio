@@ -8,7 +8,7 @@ export const profile = {
   email: 'mustang.paniti@gmail.com',
   instagram: '',
   behance: '',
-  resume: `${import.meta.env.BASE_URL}images/resume-ปณิธิ-นาคเจริญ.pdf`,
+  resume: `${import.meta.env.BASE_URL}resume-ปณิธิ-นาคเจริญ.pdf`,
 }
 export const experience = [
   {
