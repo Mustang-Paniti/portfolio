@@ -124,8 +124,6 @@ gallery: [
     client: 'Website & Campaign Design',
     image: './images/website-cover.jpg',
     gallery: [
-  './images/website-gallery-01.jpg',
-  './images/website-gallery-02.jpg',
   './images/website-gallery-03.jpg',
   './images/website-gallery-04.jpg',
   './images/website-gallery-05.jpg',
